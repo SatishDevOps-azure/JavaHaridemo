@@ -39,9 +39,7 @@
 	</dependencies>
 	<properties>
    		<maven.compiler.source>6</maven.compiler.source>
-   		<maven.compiler.target>1.6</maven.compiler.target>
-	        <sonar.host.url>https://sonarcloud.io/</sonar.host.url>
-               <sonar.login>421fef53d5d77254f72c90121e6be17a36ebaf3e</sonar.login> 		 	
+   		<maven.compiler.target>1.6</maven.compiler.target>		 	
 		  
  	</properties>
 	
